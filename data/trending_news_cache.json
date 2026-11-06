@@ -1,0 +1,2084 @@
+{
+  "lastSyncedAt": "2026-11-06T03:19:55.357Z",
+  "clusters": [
+    {
+      "id": "cluster-24h-001",
+      "legacy_id": "cluster-001",
+      "target_periods": [
+        "24h"
+      ],
+      "rank": 1,
+      "title": "Intersepsi Udara Cepat QRA NATO terhadap Formasi Pesawat Pengintai di Wilayah Udara Internasional Laut Baltik",
+      "summary": "Jet tempur Quick Reaction Alert (QRA) Angkatan Udara Polandia dan sekutu NATO dikerahkan untuk mencegat formasi pesawat militer tanpa transponder di atas Laut Baltik. Insiden ini memicu peningkatan status kesiapsiagaan pangkalan udara di sepanjang sayap timur aliansi.",
+      "event_country": "Polandia",
+      "event_country_code": "PL",
+      "continent": "Eropa",
+      "category": "Angkatan Bersenjata",
+      "volume_growth": 71.4,
+      "confidence": 98,
+      "age_hours": 4.5,
+      "articles": [
+        {
+          "id": "gdelt-1793927153735-24",
+          "title": "Дональд Трамп – попереду велика угода пов  язана з Україною і Європою",
+          "source_name": "Ukraine",
+          "source_country": "Ukraine",
+          "event_country": "Polandia",
+          "event_country_code": "PL",
+          "mentioned_countries": [
+            "Polandia"
+          ],
+          "continent": "Eropa",
+          "category": "Angkatan Bersenjata",
+          "published_at": "2026-11-06T01:49:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z",
+          "article_url": "https://www.obozrevatel.com/ukr/section-politics-news/news-vsi-budut-u-zakhvati-tramp-zayavyv-shcho-poperedu-velyka-uhoda-povyazana-z-ukrayinoyu-06-11-2026.html",
+          "summary": "Дональд Трамп – попереду велика угода пов  язана з Україною і Європою",
+          "cluster_id": "cluster-24h-001",
+          "geo_confidence": 88,
+          "provider": "GDELT"
+        },
+        {
+          "id": "gdelt-1793927153735-0",
+          "title": "Умєров розповів , що Україна , США та Європа обговорили на зустрічі в Брюсселі 5 листопада",
+          "source_name": "Ukraine",
+          "source_country": "Ukraine",
+          "event_country": "Polandia",
+          "event_country_code": "PL",
+          "mentioned_countries": [
+            "Polandia"
+          ],
+          "continent": "Eropa",
+          "category": "Angkatan Bersenjata",
+          "published_at": "2026-11-06T00:19:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z",
+          "article_url": "https://www.eurointegration.com.ua/news/2026/11/5/7249377/",
+          "summary": "Умєров розповів , що Україна , США та Європа обговорили на зустрічі в Брюсселі 5 листопада",
+          "cluster_id": "cluster-24h-001",
+          "geo_confidence": 88,
+          "provider": "GDELT"
+        },
+        {
+          "id": "art-24h-001-1",
+          "title": "NATO jets scrambled after military aircraft detected over Baltic Sea corridor",
+          "source_name": "Reuters",
+          "source_country": "GB",
+          "event_country": "Polandia",
+          "event_country_code": "PL",
+          "mentioned_countries": [
+            "Polandia",
+            "Estonia",
+            "Rusia"
+          ],
+          "continent": "Eropa",
+          "category": "Angkatan Bersenjata",
+          "offset_hours": 4.2,
+          "article_url": "https://www.reuters.com/world/europe/nato-air-policing-jets-scrambled-baltic-sea-corridor-2026",
+          "summary": "Polish F-16 and allied fighter jets were scrambled to identify and shadow non-responsive military aircraft operating near NATO sovereign airspace.",
+          "cluster_id": "cluster-24h-001",
+          "geo_confidence": 98,
+          "provider": "GDELT",
+          "published_at": "2026-11-05T23:07:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        },
+        {
+          "id": "art-24h-001-2",
+          "title": "Allied Air Command raises alert level following series of Baltic radar contacts",
+          "source_name": "Defense News",
+          "source_country": "US",
+          "event_country": "Polandia",
+          "event_country_code": "PL",
+          "mentioned_countries": [
+            "Polandia",
+            "Amerika Serikat",
+            "Jerman"
+          ],
+          "continent": "Eropa",
+          "category": "Angkatan Bersenjata",
+          "offset_hours": 2.8,
+          "article_url": "https://www.defensenews.com/global/europe/2026/allied-air-command-baltic-radar-alert/",
+          "summary": "NATO Allied Air Command reported a 40% uptick in reconnaissance flights along northeastern European air routes within the past 24 hours.",
+          "cluster_id": "cluster-24h-001",
+          "geo_confidence": 96,
+          "provider": "GoogleNewsRSS",
+          "published_at": "2026-11-06T00:31:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        },
+        {
+          "id": "art-24h-001-3",
+          "title": "Poland defense ministry confirms heightened surveillance in northeastern air borders",
+          "source_name": "BBC News",
+          "source_country": "GB",
+          "event_country": "Polandia",
+          "event_country_code": "PL",
+          "mentioned_countries": [
+            "Polandia",
+            "Lituania"
+          ],
+          "continent": "Eropa",
+          "category": "Angkatan Bersenjata",
+          "offset_hours": 1.1,
+          "article_url": "https://www.bbc.com/news/world-europe-poland-air-surveillance-update",
+          "summary": "Warsaw defense officials stressed that national air defense systems and radar picket batteries are operating in continuous synchronization.",
+          "cluster_id": "cluster-24h-001",
+          "geo_confidence": 95,
+          "provider": "GoogleNewsRSS",
+          "published_at": "2026-11-06T02:13:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        }
+      ],
+      "first_published_at": "2026-11-05T22:49:43.712Z",
+      "last_updated_at": "2026-11-06T02:25:43.712Z"
+    },
+    {
+      "id": "cluster-24h-002",
+      "legacy_id": "cluster-002",
+      "target_periods": [
+        "24h"
+      ],
+      "rank": 2,
+      "title": "Serangan Siber Terkoordinasi Melumpuhkan Sistem Manajemen Terminal Logistik Maritim Rotterdam & Hamburg",
+      "summary": "Gangguan siber berskala masif melumpuhkan perangkat lunak otomasi kontainer dan pertukaran data manifest di dua pelabuhan kargo terbesar Eropa. Otoritas keamanan siber nasional mengaktifkan protokol kontinjensi darurat guna mencegah distorsi pasokan industri pertahanan.",
+      "event_country": "Belanda",
+      "event_country_code": "NL",
+      "continent": "Eropa",
+      "category": "Pertahanan dan Keamanan",
+      "volume_growth": 74.1,
+      "confidence": 96,
+      "age_hours": 6,
+      "articles": [
+        {
+          "id": "gdelt-1793927153735-1",
+          "title": "В Словакии заявили об истощении Европы из - за Украины",
+          "source_name": "Russia",
+          "source_country": "Russia",
+          "event_country": "Belanda",
+          "event_country_code": "NL",
+          "mentioned_countries": [
+            "Belanda"
+          ],
+          "continent": "Eropa",
+          "category": "Pertahanan dan Keamanan",
+          "published_at": "2026-11-06T01:49:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z",
+          "article_url": "https://tvzvezda.ru/news/20261152344-b0MK0.html",
+          "summary": "В Словакии заявили об истощении Европы из - за Украины",
+          "cluster_id": "cluster-24h-002",
+          "geo_confidence": 88,
+          "provider": "GDELT"
+        },
+        {
+          "id": "art-24h-002-1",
+          "title": "Cyberattack disrupts automated container processing across northern European logistics hubs",
+          "source_name": "Financial Times",
+          "source_country": "GB",
+          "event_country": "Belanda",
+          "event_country_code": "NL",
+          "mentioned_countries": [
+            "Belanda",
+            "Jerman",
+            "Belgia"
+          ],
+          "continent": "Eropa",
+          "category": "Pertahanan dan Keamanan",
+          "offset_hours": 5.4,
+          "article_url": "https://www.ft.com/content/rotterdam-hamburg-ports-cyber-incident-logistics-2026",
+          "summary": "A sophisticated malware payload affected terminal operating systems at Rotterdam and Hamburg, prompting emergency manual routing.",
+          "cluster_id": "cluster-24h-002",
+          "geo_confidence": 97,
+          "provider": "GDELT",
+          "published_at": "2026-11-05T21:55:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        },
+        {
+          "id": "art-24h-002-2",
+          "title": "European cyber agency ENISA assists Dutch and German authorities in mitigating network breach",
+          "source_name": "Euronews",
+          "source_country": "FR",
+          "event_country": "Belanda",
+          "event_country_code": "NL",
+          "mentioned_countries": [
+            "Belanda",
+            "Prancis"
+          ],
+          "continent": "Eropa",
+          "category": "Pertahanan dan Keamanan",
+          "offset_hours": 3.1,
+          "article_url": "https://www.euronews.com/next/2026/enisa-investigates-port-logistics-cyber-attack",
+          "summary": "Investigators report forensic signatures resembling state-sponsored advanced persistent threat (APT) groupings targeting dual-use supply chains.",
+          "cluster_id": "cluster-24h-002",
+          "geo_confidence": 94,
+          "provider": "GoogleNewsRSS",
+          "published_at": "2026-11-06T00:13:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        }
+      ],
+      "first_published_at": "2026-11-05T21:19:43.712Z",
+      "last_updated_at": "2026-11-06T02:07:43.712Z"
+    },
+    {
+      "id": "cluster-24h-003",
+      "legacy_id": "cluster-003",
+      "target_periods": [
+        "24h"
+      ],
+      "rank": 3,
+      "title": "Pengerahan Darurat Satuan Reaksi Cepat US 82nd Airborne ke Pangkalan Udara Mihail Kogălniceanu di Pesisir Laut Hitam",
+      "summary": "Komando Pasukan AS di Eropa (EUCOM) mengonfirmasi pergerakan taktis elemen tempur lintas udara ke pangkalan udara strategis di Rumania. Penempatan kilat ini bertujuan memperkuat postur deterensi di wilayah perairan Laut Hitam bagian barat.",
+      "event_country": "Rumania",
+      "event_country_code": "RO",
+      "continent": "Eropa",
+      "category": "Angkatan Bersenjata",
+      "volume_growth": 56.1,
+      "confidence": 97,
+      "age_hours": 7.2,
+      "articles": [
+        {
+          "id": "gdelt-1793927153735-2",
+          "title": "ترامب يتوقع اتفاقا كبيرا مع روسيا يشمل أمن أوروبا",
+          "source_name": "rtarabic.com",
+          "source_country": "US",
+          "event_country": "Rumania",
+          "event_country_code": "RO",
+          "mentioned_countries": [
+            "Rumania"
+          ],
+          "continent": "Eropa",
+          "category": "Angkatan Bersenjata",
+          "published_at": "2026-11-06T01:49:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z",
+          "article_url": "https://rtarabic.com/world/1850849-/",
+          "summary": "ترامب يتوقع اتفاقا كبيرا مع روسيا يشمل أمن أوروبا",
+          "cluster_id": "cluster-24h-003",
+          "geo_confidence": 88,
+          "provider": "GDELT"
+        },
+        {
+          "id": "art-24h-003-1",
+          "title": "US Army rapid deployment elements arrive at Mihail Kogălniceanu Air Base",
+          "source_name": "Stars and Stripes",
+          "source_country": "US",
+          "event_country": "Rumania",
+          "event_country_code": "RO",
+          "mentioned_countries": [
+            "Rumania",
+            "Amerika Serikat"
+          ],
+          "continent": "Eropa",
+          "category": "Angkatan Bersenjata",
+          "offset_hours": 6.8,
+          "article_url": "https://www.stripes.com/branches/army/2026/us-rapid-deployment-romania-black-sea.html",
+          "summary": "Advanced elements of the 82nd Airborne Division touched down in southeastern Romania under a snap readiness exercise authorized by EUCOM.",
+          "cluster_id": "cluster-24h-003",
+          "geo_confidence": 98,
+          "provider": "GDELT",
+          "published_at": "2026-11-05T20:31:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        },
+        {
+          "id": "art-24h-003-2",
+          "title": "Black Sea security perimeter reinforced as allied heavy transport aircraft touch down",
+          "source_name": "Reuters",
+          "source_country": "GB",
+          "event_country": "Rumania",
+          "event_country_code": "RO",
+          "mentioned_countries": [
+            "Rumania",
+            "Ukraina",
+            "Turki"
+          ],
+          "continent": "Eropa",
+          "category": "Angkatan Bersenjata",
+          "offset_hours": 3.5,
+          "article_url": "https://www.reuters.com/world/europe/black-sea-allied-reinforcement-airbase-2026",
+          "summary": "C-17 Globemaster III transports delivered specialized mobile sensor nodes and command-and-control units to bolster regional situational awareness.",
+          "cluster_id": "cluster-24h-003",
+          "geo_confidence": 96,
+          "provider": "GoogleNewsRSS",
+          "published_at": "2026-11-05T23:49:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        }
+      ],
+      "first_published_at": "2026-11-05T20:07:43.712Z",
+      "last_updated_at": "2026-11-06T01:53:19.712Z"
+    },
+    {
+      "id": "cluster-24h-004",
+      "legacy_id": "cluster-004",
+      "target_periods": [
+        "24h"
+      ],
+      "rank": 4,
+      "title": "Pengusiran Tiga Atase Pertahanan dan Pembekuan Jalur Komunikasi Militer Tertutup di Kedutaan London",
+      "summary": "Kementerian Luar Negeri Inggris mengumumkan persona non grata terhadap tiga perwira militer asing atas dugaan aktivitas pengumpulan intelijen ilegal di fasilitas riset pertahanan Portsmouth. Langkah tegas ini memicu aksi balasan diplomatik resiprokal.",
+      "event_country": "Inggris",
+      "event_country_code": "GB",
+      "continent": "Eropa",
+      "category": "Hubungan Luar Negeri",
+      "volume_growth": 52.6,
+      "confidence": 95,
+      "age_hours": 9,
+      "articles": [
+        {
+          "id": "gdelt-1793927153735-3",
+          "title": "NATO pristato platformą , skirtą padėti narėms sustiprinti antidroninę gynybą",
+          "source_name": "Lithuania",
+          "source_country": "Lithuania",
+          "event_country": "Inggris",
+          "event_country_code": "GB",
+          "mentioned_countries": [
+            "Inggris"
+          ],
+          "continent": "Eropa",
+          "category": "Hubungan Luar Negeri",
+          "published_at": "2026-11-06T01:49:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z",
+          "article_url": "https://www.lrt.lt/naujienos/pasaulyje/6/3105484/nato-pristato-platforma-skirta-padeti-narems-sustiprinti-antidronine-gynyba",
+          "summary": "NATO pristato platformą , skirtą padėti narėms sustiprinti antidroninę gynybą",
+          "cluster_id": "cluster-24h-004",
+          "geo_confidence": 88,
+          "provider": "GDELT"
+        },
+        {
+          "id": "art-24h-004-1",
+          "title": "UK expels foreign military attachés over espionage concerns at naval dockyards",
+          "source_name": "The Guardian",
+          "source_country": "GB",
+          "event_country": "Inggris",
+          "event_country_code": "GB",
+          "mentioned_countries": [
+            "Inggris",
+            "Rusia"
+          ],
+          "continent": "Eropa",
+          "category": "Hubungan Luar Negeri",
+          "offset_hours": 8.2,
+          "article_url": "https://www.theguardian.com/uk-news/2026/uk-foreign-office-expels-attaches-portsmouth-dockyard",
+          "summary": "The Foreign, Commonwealth and Development Office summoned the ambassador to deliver formal expulsion notices with a 48-hour departure ultimatum.",
+          "cluster_id": "cluster-24h-004",
+          "geo_confidence": 96,
+          "provider": "GDELT",
+          "published_at": "2026-11-05T19:07:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        },
+        {
+          "id": "art-24h-004-2",
+          "title": "British defense intelligence reports heightened surveillance of naval telemetry centers",
+          "source_name": "BBC News",
+          "source_country": "GB",
+          "event_country": "Inggris",
+          "event_country_code": "GB",
+          "mentioned_countries": [
+            "Inggris"
+          ],
+          "continent": "Eropa",
+          "category": "Hubungan Luar Negeri",
+          "offset_hours": 4.1,
+          "article_url": "https://www.bbc.com/news/uk-defense-portsmouth-intelligence-alert",
+          "summary": "MI5 and Defense Intelligence raised counter-espionage safeguards surrounding sovereign submarine construction programs.",
+          "cluster_id": "cluster-24h-004",
+          "geo_confidence": 94,
+          "provider": "GoogleNewsRSS",
+          "published_at": "2026-11-05T23:13:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        }
+      ],
+      "first_published_at": "2026-11-05T18:19:43.712Z",
+      "last_updated_at": "2026-11-06T01:31:43.712Z"
+    },
+    {
+      "id": "cluster-24h-005",
+      "legacy_id": "cluster-005",
+      "target_periods": [
+        "24h"
+      ],
+      "rank": 5,
+      "title": "Penutupan Darurat Pos Lintas Batas Koridor Suwalki Menyusul Peningkatan Manuver Bersenjata Lintas Batas",
+      "summary": "Pemerintah Lithuania dan Polandia memberlakukan pembatasan transit darurat di koridor darat Suwalki setelah deteksi pergerakan unit mekanis berat dan sistem peperangan elektronik di sisi luar perbatasan. Pengamanan fisik diperkuat oleh brigade perbatasan khusus.",
+      "event_country": "Lituania",
+      "event_country_code": "LT",
+      "continent": "Eropa",
+      "category": "Politik",
+      "volume_growth": 68.4,
+      "confidence": 96,
+      "age_hours": 11.5,
+      "articles": [
+        {
+          "id": "gdelt-1793927153735-4",
+          "title": "NATO sukūrė platformą , skirtą padėti narėms stiprinti gynybą nuo dronų",
+          "source_name": "Lithuania",
+          "source_country": "Lithuania",
+          "event_country": "Lituania",
+          "event_country_code": "LT",
+          "mentioned_countries": [
+            "Lituania"
+          ],
+          "continent": "Eropa",
+          "category": "Politik",
+          "published_at": "2026-11-06T01:49:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z",
+          "article_url": "https://www.15min.lt/naujiena/aktualu/pasaulis/nato-sukure-platforma-skirta-padeti-narems-stiprinti-gynyba-nuo-dronu-57-2800108",
+          "summary": "NATO sukūrė platformą , skirtą padėti narėms stiprinti gynybą nuo dronų",
+          "cluster_id": "cluster-24h-005",
+          "geo_confidence": 88,
+          "provider": "GDELT"
+        },
+        {
+          "id": "art-24h-005-1",
+          "title": "Lithuania declares temporary transit restrictions on Suwalki gap border checkpoints",
+          "source_name": "DW News",
+          "source_country": "DE",
+          "event_country": "Lituania",
+          "event_country_code": "LT",
+          "mentioned_countries": [
+            "Lituania",
+            "Polandia",
+            "Belarus"
+          ],
+          "continent": "Eropa",
+          "category": "Politik",
+          "offset_hours": 10.8,
+          "article_url": "https://www.dw.com/en/suwalki-gap-border-restrictions-lithuania-poland/a-20261105",
+          "summary": "Vilnius officials cited unannounced troop movements and electronic jamming interfering with civilian navigation near the border corridor.",
+          "cluster_id": "cluster-24h-005",
+          "geo_confidence": 97,
+          "provider": "GDELT",
+          "published_at": "2026-11-05T16:31:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        },
+        {
+          "id": "art-24h-005-2",
+          "title": "NATO eastern flank forces place mechanized units on high alert near Suwalki junction",
+          "source_name": "Reuters",
+          "source_country": "GB",
+          "event_country": "Lituania",
+          "event_country_code": "LT",
+          "mentioned_countries": [
+            "Lituania",
+            "Polandia",
+            "Amerika Serikat"
+          ],
+          "continent": "Eropa",
+          "category": "Politik",
+          "offset_hours": 5.6,
+          "article_url": "https://www.reuters.com/world/europe/suwalki-corridor-military-readiness-nato-2026",
+          "summary": "Allied battle groups stationed in Lithuania and Poland established joint operational coordination cells to monitor frontier stability.",
+          "cluster_id": "cluster-24h-005",
+          "geo_confidence": 95,
+          "provider": "GoogleNewsRSS",
+          "published_at": "2026-11-05T21:43:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        }
+      ],
+      "first_published_at": "2026-11-05T15:49:43.712Z",
+      "last_updated_at": "2026-11-06T01:01:43.712Z"
+    },
+    {
+      "id": "cluster-24h-006",
+      "legacy_id": "cluster-006",
+      "target_periods": [
+        "24h"
+      ],
+      "rank": 6,
+      "title": "Kesiagaan Deteksi Dini Komando Pertahanan Udara NORAD Menyusul Peluncuran Rudal Uji Sub-Orbital di Wilayah Arktik",
+      "summary": "Satelit peringatan dini ruang angkasa dan radar peringatan dini rudal balistik komando gabungan AS-Kanada mendeteksi peluncuran uji proyektil sub-orbital hipersonik di lingkar Arktik utara. Seluruh sektor pertahanan udara benua Amerika Utara berada dalam status pemantauan aktif.",
+      "event_country": "Amerika Serikat",
+      "event_country_code": "US",
+      "continent": "Amerika",
+      "category": "Angkatan Bersenjata",
+      "volume_growth": 78.5,
+      "confidence": 99,
+      "age_hours": 13,
+      "articles": [
+        {
+          "id": "gdelt-1793927153735-5",
+          "title": "У Польщі попередили про наслідки повернення російського газу до Європи",
+          "source_name": "Ukraine",
+          "source_country": "Ukraine",
+          "event_country": "Amerika Serikat",
+          "event_country_code": "US",
+          "mentioned_countries": [
+            "Amerika Serikat"
+          ],
+          "continent": "Amerika",
+          "category": "Angkatan Bersenjata",
+          "published_at": "2026-11-06T01:49:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z",
+          "article_url": "https://www.eurointegration.com.ua/news/2026/11/5/7249354/",
+          "summary": "У Польщі попередили про наслідки повернення російського газу до Європи",
+          "cluster_id": "cluster-24h-006",
+          "geo_confidence": 88,
+          "provider": "GDELT"
+        },
+        {
+          "id": "art-24h-006-1",
+          "title": "NORAD monitors high-altitude ballistic missile test launch across polar trajectory",
+          "source_name": "Defense One",
+          "source_country": "US",
+          "event_country": "Amerika Serikat",
+          "event_country_code": "US",
+          "mentioned_countries": [
+            "Amerika Serikat",
+            "Kanada",
+            "Rusia"
+          ],
+          "continent": "Amerika",
+          "category": "Angkatan Bersenjata",
+          "offset_hours": 12.2,
+          "article_url": "https://www.defenseone.com/threats/2026/norad-tracks-arctic-hypersonic-test-launch/",
+          "summary": "Space-Based Infrared System (SBIRS) satellites registered the thermal signature within seconds of ignition over the Barents Sea polar testing range.",
+          "cluster_id": "cluster-24h-006",
+          "geo_confidence": 99,
+          "provider": "GDELT",
+          "published_at": "2026-11-05T15:07:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        },
+        {
+          "id": "art-24h-006-2",
+          "title": "Pentagon assesses Arctic telemetry data as hypersonic glide vehicle impact confirmed",
+          "source_name": "The Washington Post",
+          "source_country": "US",
+          "event_country": "Amerika Serikat",
+          "event_country_code": "US",
+          "mentioned_countries": [
+            "Amerika Serikat",
+            "Kanada"
+          ],
+          "continent": "Amerika",
+          "category": "Angkatan Bersenjata",
+          "offset_hours": 6.9,
+          "article_url": "https://www.washingtonpost.com/national-security/2026/pentagon-norad-arctic-missile-analysis/",
+          "summary": "Military analysts verified that the test flight remained in international airspace without presenting an immediate threat to the North American homeland.",
+          "cluster_id": "cluster-24h-006",
+          "geo_confidence": 97,
+          "provider": "GoogleNewsRSS",
+          "published_at": "2026-11-05T20:25:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        }
+      ],
+      "first_published_at": "2026-11-05T14:19:43.712Z",
+      "last_updated_at": "2026-11-06T00:43:43.712Z"
+    },
+    {
+      "id": "cluster-24h-007",
+      "legacy_id": "cluster-007",
+      "target_periods": [
+        "24h"
+      ],
+      "rank": 7,
+      "title": "Peningkatan Protokol Pengawasan Siber SCADA Kilang Minyak Teluk Meksiko Pasca Percobaan Intrusi Digital",
+      "summary": "Badan Keamanan Siber dan Infrastruktur AS (CISA) merilis direktif darurat kepada operator jaringan energi lepas pantai Teluk Meksiko menyusul upaya pembobolan sistem Supervisory Control and Data Acquisition (SCADA). Penyelidikan forensik difokuskan pada upaya penetrasi jaringan pipa gas alam cair.",
+      "event_country": "Amerika Serikat",
+      "event_country_code": "US",
+      "continent": "Amerika",
+      "category": "Ekonomi",
+      "volume_growth": 42.2,
+      "confidence": 93,
+      "age_hours": 16,
+      "articles": [
+        {
+          "id": "gdelt-1793927153735-6",
+          "title": "Nakupovanie zbraní online ? NATO spustilo platformu , spojenci si môžu vyberať techniku proti dronom",
+          "source_name": "Slovak Republic",
+          "source_country": "Slovak Republic",
+          "event_country": "Amerika Serikat",
+          "event_country_code": "US",
+          "mentioned_countries": [
+            "Amerika Serikat"
+          ],
+          "continent": "Amerika",
+          "category": "Ekonomi",
+          "published_at": "2026-11-06T01:49:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z",
+          "article_url": "https://www.ta3.com/zahranicie/clanok/1081217/nakupovanie-zbrani-online-nato-spustilo-platformu-spojenci-si-mozu-vyberat-techniku-proti-dronom",
+          "summary": "Nakupovanie zbraní online ? NATO spustilo platformu , spojenci si môžu vyberať techniku proti dronom",
+          "cluster_id": "cluster-24h-007",
+          "geo_confidence": 88,
+          "provider": "GDELT"
+        },
+        {
+          "id": "art-24h-007-1",
+          "title": "CISA issues emergency advisory after cyber intrusion attempts on Gulf of Mexico energy assets",
+          "source_name": "Bloomberg",
+          "source_country": "US",
+          "event_country": "Amerika Serikat",
+          "event_country_code": "US",
+          "mentioned_countries": [
+            "Amerika Serikat",
+            "Meksiko"
+          ],
+          "continent": "Amerika",
+          "category": "Ekonomi",
+          "offset_hours": 15.1,
+          "article_url": "https://www.bloomberg.com/news/articles/2026-cisa-advisory-gulf-mexico-oil-gas-scada",
+          "summary": "Critical industrial control networks servicing over 2.4 million barrels per day of refining capacity were isolated to purge unauthorized remote access tools.",
+          "cluster_id": "cluster-24h-007",
+          "geo_confidence": 95,
+          "provider": "GDELT",
+          "published_at": "2026-11-05T12:13:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        },
+        {
+          "id": "art-24h-007-2",
+          "title": "Energy sector heightened threat posture enacted as petroleum infrastructure faces probing",
+          "source_name": "The Wall Street Journal",
+          "source_country": "US",
+          "event_country": "Amerika Serikat",
+          "event_country_code": "US",
+          "mentioned_countries": [
+            "Amerika Serikat"
+          ],
+          "continent": "Amerika",
+          "category": "Ekonomi",
+          "offset_hours": 7.5,
+          "article_url": "https://www.wsj.com/articles/cyber-probing-gulf-coast-lng-refineries-alert-2026",
+          "summary": "The Department of Energy coordinating with Homeland Security deployed defensive hunt teams to verify telemetry authenticity at offshore rigs.",
+          "cluster_id": "cluster-24h-007",
+          "geo_confidence": 92,
+          "provider": "GoogleNewsRSS",
+          "published_at": "2026-11-05T19:49:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        }
+      ],
+      "first_published_at": "2026-11-05T11:19:43.712Z",
+      "last_updated_at": "2026-11-06T00:07:43.712Z"
+    },
+    {
+      "id": "cluster-24h-008",
+      "legacy_id": "cluster-008",
+      "target_periods": [
+        "24h"
+      ],
+      "rank": 8,
+      "title": "Peningkatan Patroli Armada Penjaga Pantai Spanyol di Selat Gibraltar Mengawasi Konvoi Korvet Asing",
+      "summary": "Satuan patroli maritim Angkatan Laut Spanyol (Armada Española) dan Penjaga Pantai meningkatkan pengawasan ketat terhadap gugus tugas kapal perang non-NATO yang melintasi koridor laut Selat Gibraltar menuju Mediterania barat. Langkah ini untuk memastikan kepatuhan regulasi lintas damai.",
+      "event_country": "Spanyol",
+      "event_country_code": "ES",
+      "continent": "Eropa",
+      "category": "Pertahanan dan Keamanan",
+      "volume_growth": 35.2,
+      "confidence": 91,
+      "age_hours": 19,
+      "articles": [
+        {
+          "id": "gdelt-1793927153735-7",
+          "title": "Ердоган шукає шлях до миру , США обговорюють допомогу Україні , а Європа готується до евакуації – хроніка 1716 - го дня Великої війни",
+          "source_name": "Ukraine",
+          "source_country": "Ukraine",
+          "event_country": "Spanyol",
+          "event_country_code": "ES",
+          "mentioned_countries": [
+            "Spanyol"
+          ],
+          "continent": "Eropa",
+          "category": "Pertahanan dan Keamanan",
+          "published_at": "2026-11-06T01:49:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z",
+          "article_url": "https://www.5.ua/suspilstvo/erdohan-shukaie-shliakh-do-myru-ssha-obhovoriuiut-dopomohu-ukraini-a-yevropa-hotuietsia-do-evakuatsii-khronika-1716-ho-dnia-velykoi-viiny-385824.html",
+          "summary": "Ердоган шукає шлях до миру , США обговорюють допомогу Україні , а Європа готується до евакуації – хроніка 1716 - го дня Великої війни",
+          "cluster_id": "cluster-24h-008",
+          "geo_confidence": 88,
+          "provider": "GDELT"
+        },
+        {
+          "id": "art-24h-008-1",
+          "title": "Spanish Navy shadows naval task group transiting Strait of Gibraltar",
+          "source_name": "El País",
+          "source_country": "ES",
+          "event_country": "Spanyol",
+          "event_country_code": "ES",
+          "mentioned_countries": [
+            "Spanyol",
+            "Inggris",
+            "Maroko"
+          ],
+          "continent": "Eropa",
+          "category": "Pertahanan dan Keamanan",
+          "offset_hours": 18.2,
+          "article_url": "https://elpais.com/espana/2026-spanish-navy-monitors-gibraltar-naval-transit.html",
+          "summary": "The frigate Méndez Núñez (F-104) and maritime patrol aircraft coordinated continuous visual and radar tracking through the maritime chokepoint.",
+          "cluster_id": "cluster-24h-008",
+          "geo_confidence": 94,
+          "provider": "GDELT",
+          "published_at": "2026-11-05T09:07:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        },
+        {
+          "id": "art-24h-008-2",
+          "title": "Gibraltar maritime corridor security heightened amid heavy international naval traffic",
+          "source_name": "Navy Lookout",
+          "source_country": "GB",
+          "event_country": "Spanyol",
+          "event_country_code": "ES",
+          "mentioned_countries": [
+            "Spanyol",
+            "Inggris"
+          ],
+          "continent": "Eropa",
+          "category": "Pertahanan dan Keamanan",
+          "offset_hours": 8.9,
+          "article_url": "https://www.navylookout.com/strait-of-gibraltar-naval-surveillance-update-2026/",
+          "summary": "British and Spanish naval monitoring stations at Gibraltar shared tactical radar feeds to verify innocent passage compliance.",
+          "cluster_id": "cluster-24h-008",
+          "geo_confidence": 91,
+          "provider": "GoogleNewsRSS",
+          "published_at": "2026-11-05T18:25:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        }
+      ],
+      "first_published_at": "2026-11-05T08:19:43.712Z",
+      "last_updated_at": "2026-11-05T23:31:43.712Z"
+    },
+    {
+      "id": "cluster-7d-001",
+      "target_periods": [
+        "7d"
+      ],
+      "rank": 1,
+      "title": "Manuver Latihan Gabungan Komando Cepat NATO 'Steadfast Sentinel' Melibatkan 20.000 Personel di Sayap Timur",
+      "summary": "Komando Gabungan Sekutu NATO menggelar fase manuver taktis berskala besar melintasi wilayah Polandia, Jerman, dan negara-negara Baltik. Latihan ini menguji integrasi interoperabilitas pertahanan udara berlapis, mobilitas divisi lapis baja, dan pertahanan logistik perang konvensional berintensitas tinggi.",
+      "event_country": "Jerman",
+      "event_country_code": "DE",
+      "continent": "Eropa",
+      "category": "Angkatan Bersenjata",
+      "volume_growth": 35.8,
+      "confidence": 97,
+      "age_days": 3.5,
+      "articles": [
+        {
+          "id": "gdelt-1793927153735-8",
+          "title": "Ο Τραμπ προαναγγέλλει μεγάλη συμφωνία με τη Ρωσία που μπορεί να αφορά όλη την Ευρώπη",
+          "source_name": "Greece",
+          "source_country": "Greece",
+          "event_country": "Jerman",
+          "event_country_code": "DE",
+          "mentioned_countries": [
+            "Jerman"
+          ],
+          "continent": "Eropa",
+          "category": "Angkatan Bersenjata",
+          "published_at": "2026-11-04T22:31:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z",
+          "article_url": "https://www.newsbeast.gr/world/arthro/13477160/o-trab-proanangellei-megali-symfonia-me-ti-rosia-pou-borei-na-afora-oli-tin-evropi",
+          "summary": "Ο Τραμπ προαναγγέλλει μεγάλη συμφωνία με τη Ρωσία που μπορεί να αφορά όλη την Ευρώπη",
+          "cluster_id": "cluster-7d-001",
+          "geo_confidence": 88,
+          "provider": "GDELT"
+        },
+        {
+          "id": "art-7d-001-1",
+          "title": "NATO concludes key maneuver phase of Steadfast Sentinel exercise across eastern member states",
+          "source_name": "Deutsche Welle",
+          "source_country": "DE",
+          "event_country": "Jerman",
+          "event_country_code": "DE",
+          "mentioned_countries": [
+            "Jerman",
+            "Polandia",
+            "Amerika Serikat"
+          ],
+          "continent": "Eropa",
+          "category": "Angkatan Bersenjata",
+          "offset_days": 3.2,
+          "article_url": "https://www.dw.com/en/nato-steadfast-sentinel-drills-eastern-flank/a-20261102",
+          "summary": "More than 20,000 troops and 1,200 armored fighting vehicles participated in synchronized live-fire drills simulating multi-domain territorial defense.",
+          "cluster_id": "cluster-7d-001",
+          "geo_confidence": 98,
+          "provider": "GDELT",
+          "published_at": "2026-11-02T22:31:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        },
+        {
+          "id": "art-7d-001-2",
+          "title": "Allied rapid response corps demonstrates 72-hour mobilization cross-border transport",
+          "source_name": "Defense News",
+          "source_country": "US",
+          "event_country": "Jerman",
+          "event_country_code": "DE",
+          "mentioned_countries": [
+            "Jerman",
+            "Belanda",
+            "Polandia"
+          ],
+          "continent": "Eropa",
+          "category": "Angkatan Bersenjata",
+          "offset_days": 1.8,
+          "article_url": "https://www.defensenews.com/training-sim/2026/allied-rapid-deployment-logistics-milestone/",
+          "summary": "Rail and highway logistics corridors across Central Europe achieved benchmark throughput metrics under the European Military Mobility directive.",
+          "cluster_id": "cluster-7d-001",
+          "geo_confidence": 96,
+          "provider": "GoogleNewsRSS",
+          "published_at": "2026-11-04T08:07:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        }
+      ],
+      "first_published_at": "2026-11-02T15:19:43.712Z",
+      "last_updated_at": "2026-11-05T23:19:43.712Z"
+    },
+    {
+      "id": "cluster-7d-002",
+      "target_periods": [
+        "7d"
+      ],
+      "rank": 2,
+      "title": "Ratifikasi Pakta Kerjasama Keamanan Siber Bilateral AS-Inggris untuk Proteksi Infrastruktur Komputasi Kuantum & AI",
+      "summary": "Gedung Putih dan Kantor Perdana Menteri Inggris menandatangani perjanjian bilateral pengamanan teknologi pertahanan kritis, menetapkan standar keamanan siber bersama untuk algoritma enkripsi pasca-kuantum dan model kecerdasan buatan militer.",
+      "event_country": "Amerika Serikat",
+      "event_country_code": "US",
+      "continent": "Amerika",
+      "category": "Ilmu Pengetahuan dan Teknologi",
+      "volume_growth": 29.5,
+      "confidence": 96,
+      "age_days": 4.2,
+      "articles": [
+        {
+          "id": "gdelt-1793927153735-9",
+          "title": "Кушнер заявил о продуктивных переговорах с Украиной , НАТО и Европой",
+          "source_name": "Russia",
+          "source_country": "Russia",
+          "event_country": "Amerika Serikat",
+          "event_country_code": "US",
+          "mentioned_countries": [
+            "Amerika Serikat"
+          ],
+          "continent": "Amerika",
+          "category": "Ilmu Pengetahuan dan Teknologi",
+          "published_at": "2026-11-04T22:31:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z",
+          "article_url": "https://www.m24.ru/news/06112026/961056",
+          "summary": "Кушнер заявил о продуктивных переговорах с Украиной , НАТО и Европой",
+          "cluster_id": "cluster-7d-002",
+          "geo_confidence": 88,
+          "provider": "GDELT"
+        },
+        {
+          "id": "art-7d-002-1",
+          "title": "US and UK formalize historic bilateral defense pact on post-quantum encryption and AI security",
+          "source_name": "Financial Times",
+          "source_country": "GB",
+          "event_country": "Amerika Serikat",
+          "event_country_code": "US",
+          "mentioned_countries": [
+            "Amerika Serikat",
+            "Inggris"
+          ],
+          "continent": "Amerika",
+          "category": "Ilmu Pengetahuan dan Teknologi",
+          "offset_days": 3.9,
+          "article_url": "https://www.ft.com/content/us-uk-post-quantum-cybersecurity-defense-accord-2026",
+          "summary": "The pact mandates shared telemetry analysis and joint certification frameworks for dual-use artificial intelligence systems deployed in national security missions.",
+          "cluster_id": "cluster-7d-002",
+          "geo_confidence": 97,
+          "provider": "GDELT",
+          "published_at": "2026-11-02T05:43:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        },
+        {
+          "id": "art-7d-002-2",
+          "title": "Pentagon and UK Ministry of Defence establish joint quantum cryptography testing laboratory",
+          "source_name": "Defense One",
+          "source_country": "US",
+          "event_country": "Amerika Serikat",
+          "event_country_code": "US",
+          "mentioned_countries": [
+            "Amerika Serikat",
+            "Inggris"
+          ],
+          "continent": "Amerika",
+          "category": "Ilmu Pengetahuan dan Teknologi",
+          "offset_days": 2.1,
+          "article_url": "https://www.defenseone.com/technology/2026/pentagon-uk-quantum-crypto-lab-announcement/",
+          "summary": "The joint laboratory will validate algorithm resilience against advanced nation-state decryption vectors prior to operational fleet-wide deployment.",
+          "cluster_id": "cluster-7d-002",
+          "geo_confidence": 95,
+          "provider": "GoogleNewsRSS",
+          "published_at": "2026-11-04T00:55:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        }
+      ],
+      "first_published_at": "2026-11-01T22:31:43.712Z",
+      "last_updated_at": "2026-11-05T21:19:43.712Z"
+    },
+    {
+      "id": "cluster-7d-003",
+      "target_periods": [
+        "7d"
+      ],
+      "rank": 3,
+      "title": "Finalisasi Paket Pengadaan Konsorsium Sistem Rudal Pertahanan Udara Bertingkat Arrow-3 dan IRIS-T SLM di Eropa Tengah",
+      "summary": "Kementerian Pertahanan Jerman dan mitra aliansi Eropa menuntaskan kontrak integrasi operasional baterai pertahanan rudal Arrow-3 dan sistem jarak menengah IRIS-T SLM. Inisiatif ini merupakan pilar utama program Pertahanan Udara Langit Eropa (ESSI).",
+      "event_country": "Jerman",
+      "event_country_code": "DE",
+      "continent": "Eropa",
+      "category": "Pertahanan dan Keamanan",
+      "volume_growth": 21.8,
+      "confidence": 97,
+      "age_days": 5,
+      "articles": [
+        {
+          "id": "gdelt-1793927153735-10",
+          "title": "Meloni : EU je neusklađena u pregovorima o Ukrajini",
+          "source_name": "Bosnia-Herzegovina",
+          "source_country": "Bosnia-Herzegovina",
+          "event_country": "Jerman",
+          "event_country_code": "DE",
+          "mentioned_countries": [
+            "Jerman"
+          ],
+          "continent": "Eropa",
+          "category": "Pertahanan dan Keamanan",
+          "published_at": "2026-11-04T22:31:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z",
+          "article_url": "http://www.avaz.ba/vijesti/globus/1085823/meloni-eu-je-neuskladjena-u-pregovorima-o-ukrajini",
+          "summary": "Meloni : EU je neusklađena u pregovorima o Ukrajini",
+          "cluster_id": "cluster-7d-003",
+          "geo_confidence": 88,
+          "provider": "GDELT"
+        },
+        {
+          "id": "art-7d-003-1",
+          "title": "Germany finalizes Arrow-3 missile procurement and operational radar integration schedule",
+          "source_name": "Reuters",
+          "source_country": "GB",
+          "event_country": "Jerman",
+          "event_country_code": "DE",
+          "mentioned_countries": [
+            "Jerman",
+            "Israel",
+            "Amerika Serikat"
+          ],
+          "continent": "Eropa",
+          "category": "Pertahanan dan Keamanan",
+          "offset_days": 4.6,
+          "article_url": "https://www.reuters.com/business/aerospace-defense/germany-arrow-3-procurement-integration-2026",
+          "summary": "The multi-billion euro procurement contract secures high-altitude exo-atmospheric ballistic missile defense capabilities operational by mid-2027.",
+          "cluster_id": "cluster-7d-003",
+          "geo_confidence": 98,
+          "provider": "GDELT",
+          "published_at": "2026-11-01T12:55:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        },
+        {
+          "id": "art-7d-003-2",
+          "title": "European Sky Shield Initiative expands with additional interceptor deliveries to Bundeswehr",
+          "source_name": "Handelsblatt",
+          "source_country": "DE",
+          "event_country": "Jerman",
+          "event_country_code": "DE",
+          "mentioned_countries": [
+            "Jerman",
+            "Swiss",
+            "Austria"
+          ],
+          "continent": "Eropa",
+          "category": "Pertahanan dan Keamanan",
+          "offset_days": 2.3,
+          "article_url": "https://www.handelsblatt.com/politik/deutschland/sky-shield-initiative-arrow-3-bundeswehr/2026.html",
+          "summary": "German defense officials emphasized that the interconnected radar network provides an unbroken shield against cruise missiles and hypersonic glide vehicles.",
+          "cluster_id": "cluster-7d-003",
+          "geo_confidence": 95,
+          "provider": "GoogleNewsRSS",
+          "published_at": "2026-11-03T20:07:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        }
+      ],
+      "first_published_at": "2026-11-01T03:19:43.712Z",
+      "last_updated_at": "2026-11-05T19:19:43.712Z"
+    },
+    {
+      "id": "cluster-7d-004",
+      "target_periods": [
+        "7d"
+      ],
+      "rank": 4,
+      "title": "Sidang Parlemen Prancis Menyetujui Peningkatan Anggaran Program Kapal Selam Rudal Balistik Generasi Baru (SNLE 3G)",
+      "summary": "Majelis Nasional Prancis mengesahkan amandemen Undang-Undang Pemrograman Militer (LPM) guna mengamankan pendanaan percepatan konstruksi kapal selam nuklir generasi ketiga di galangan kapal Cherbourg. Program ini menjamin kredibilitas penangkal nuklir strategis maritim Prancis.",
+      "event_country": "Prancis",
+      "event_country_code": "FR",
+      "continent": "Eropa",
+      "category": "Politik",
+      "volume_growth": 16.1,
+      "confidence": 94,
+      "age_days": 5.5,
+      "articles": [
+        {
+          "id": "gdelt-1793927153735-11",
+          "title": "Вплив Ілона Маска на політику України – заява Зеленського | Новини України",
+          "source_name": "Ukraine",
+          "source_country": "Ukraine",
+          "event_country": "Prancis",
+          "event_country_code": "FR",
+          "mentioned_countries": [
+            "Prancis"
+          ],
+          "continent": "Eropa",
+          "category": "Politik",
+          "published_at": "2026-11-04T22:31:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z",
+          "article_url": "https://news.liga.net/ua/politics/news/zelenskyy-rozkrytykuvav-maska-za-vtruchannia-v-polityku-inshykh-krain",
+          "summary": "Вплив Ілона Маска на політику України – заява Зеленського | Новини України",
+          "cluster_id": "cluster-7d-004",
+          "geo_confidence": 88,
+          "provider": "GDELT"
+        },
+        {
+          "id": "art-7d-004-1",
+          "title": "French National Assembly approves supplementary budget allocation for SNLE 3G submarine fleet",
+          "source_name": "Le Monde",
+          "source_country": "FR",
+          "event_country": "Prancis",
+          "event_country_code": "FR",
+          "mentioned_countries": [
+            "Prancis"
+          ],
+          "continent": "Eropa",
+          "category": "Politik",
+          "offset_days": 5.1,
+          "article_url": "https://www.lemonde.fr/international/article/2026/snle-3g-submarines-defense-budget-approval.html",
+          "summary": "Lawmakers voted overwhelmingly to finance advanced acoustic stealth shielding and specialized reactor metallurgy for the four planned nuclear ballistic submarines.",
+          "cluster_id": "cluster-7d-004",
+          "geo_confidence": 96,
+          "provider": "GDELT",
+          "published_at": "2026-11-01T00:55:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        },
+        {
+          "id": "art-7d-004-2",
+          "title": "Naval Group cuts first steel for critical structural module of third-generation deterrence sub",
+          "source_name": "Naval News",
+          "source_country": "FR",
+          "event_country": "Prancis",
+          "event_country_code": "FR",
+          "mentioned_countries": [
+            "Prancis"
+          ],
+          "continent": "Eropa",
+          "category": "Politik",
+          "offset_days": 2.8,
+          "article_url": "https://www.navalnews.com/naval-news/2026/naval-group-cherbourg-snle-3g-milestone/",
+          "summary": "The submarine program represents France’s primary independent maritime deterrent component ensuring oceanic patrol continuity well into the 2080s.",
+          "cluster_id": "cluster-7d-004",
+          "geo_confidence": 94,
+          "provider": "GoogleNewsRSS",
+          "published_at": "2026-11-03T08:07:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        }
+      ],
+      "first_published_at": "2026-10-31T15:19:43.712Z",
+      "last_updated_at": "2026-11-06T01:19:43.712Z"
+    },
+    {
+      "id": "cluster-7d-005",
+      "target_periods": [
+        "7d"
+      ],
+      "rank": 5,
+      "title": "Kesepakatan Keamanan Koridor Energi Bawah Laut dan Jalur Pipa Gas Laut Utara antara Norwegia, Inggris, dan Belgia",
+      "summary": "Perwakilan pemerintah tiga negara menyepakati pembentukan Gugus Tugas Patroli Bawah Air Gabungan guna menjaga infrastruktur kabel serat optik dan pipa gas alam bawah laut di Laut Utara. Pengawasan dilakukan dengan kapal selam nirawak otonom dan sonar pasif.",
+      "event_country": "Norwegia",
+      "event_country_code": "NO",
+      "continent": "Eropa",
+      "category": "Hubungan Luar Negeri",
+      "volume_growth": 34.4,
+      "confidence": 95,
+      "age_days": 6,
+      "articles": [
+        {
+          "id": "gdelt-1793927153735-12",
+          "title": "Украина : между расчетами Вашингтона и проверкой европейского лидерства ( Al Khaleej , ОАЭ ) ",
+          "source_name": "Russia",
+          "source_country": "Russia",
+          "event_country": "Norwegia",
+          "event_country_code": "NO",
+          "mentioned_countries": [
+            "Norwegia"
+          ],
+          "continent": "Eropa",
+          "category": "Hubungan Luar Negeri",
+          "published_at": "2026-11-04T22:31:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z",
+          "article_url": "https://inosmi.ru/20261105/podderzhka-281008443.html",
+          "summary": "Украина : между расчетами Вашингтона и проверкой европейского лидерства ( Al Khaleej , ОАЭ ) ",
+          "cluster_id": "cluster-7d-005",
+          "geo_confidence": 88,
+          "provider": "GDELT"
+        },
+        {
+          "id": "art-7d-005-1",
+          "title": "Norway, UK, and Belgium sign trilateral pact to deploy autonomous subsea sensors along North Sea pipelines",
+          "source_name": "Reuters",
+          "source_country": "GB",
+          "event_country": "Norwegia",
+          "event_country_code": "NO",
+          "mentioned_countries": [
+            "Norwegia",
+            "Inggris",
+            "Belgia"
+          ],
+          "continent": "Eropa",
+          "category": "Hubungan Luar Negeri",
+          "offset_days": 5.8,
+          "article_url": "https://www.reuters.com/business/energy/north-sea-energy-security-pipeline-trilateral-pact-2026",
+          "summary": "The initiative responds to persistent electronic mapping and seabed surveys conducted by non-allied intelligence auxiliary research vessels.",
+          "cluster_id": "cluster-7d-005",
+          "geo_confidence": 97,
+          "provider": "GDELT",
+          "published_at": "2026-10-31T08:07:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        },
+        {
+          "id": "art-7d-005-2",
+          "title": "Norwegian Coast Guard commissions advanced deep-sea unmanned intervention vessels",
+          "source_name": "NRK",
+          "source_country": "NO",
+          "event_country": "Norwegia",
+          "event_country_code": "NO",
+          "mentioned_countries": [
+            "Norwegia"
+          ],
+          "continent": "Eropa",
+          "category": "Hubungan Luar Negeri",
+          "offset_days": 3.1,
+          "article_url": "https://www.nrk.no/urix/norwegian-coastguard-subsea-infrastructure-defense-2026",
+          "summary": "Autonomous underwater vehicles equipped with magnetic anomaly detectors will conduct 24/7 autonomous patrols over key hydrocarbon conduits.",
+          "cluster_id": "cluster-7d-005",
+          "geo_confidence": 93,
+          "provider": "GoogleNewsRSS",
+          "published_at": "2026-11-03T00:55:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        }
+      ],
+      "first_published_at": "2026-10-31T03:19:43.712Z",
+      "last_updated_at": "2026-11-05T23:19:43.712Z"
+    },
+    {
+      "id": "cluster-7d-006",
+      "target_periods": [
+        "7d"
+      ],
+      "rank": 6,
+      "title": "Perluasan Operasi Pengawasan Maritim Bersama AS-Kanada di Jalur Pelayaran Barat Laut Wilayah Arktik",
+      "summary": "Angkatan Laut AS dan Penjaga Pantai Kanada mengintensifkan patroli terpadu kapal pemecah es dan pesawat pengintai maritim P-8A Poseidon di sepanjang perlintasan barat laut (Northwest Passage). Langkah ini menegaskan kesiapan operasional menghadapi lonjakan aktivitas maritim di lingkar kutub.",
+      "event_country": "Kanada",
+      "event_country_code": "CA",
+      "continent": "Amerika",
+      "category": "Pertahanan dan Keamanan",
+      "volume_growth": 23.9,
+      "confidence": 93,
+      "age_days": 6.2,
+      "articles": [
+        {
+          "id": "gdelt-1793927153735-13",
+          "title": "Зеленський пояснив , як результати виборів у США можуть вплинути на підтримку України",
+          "source_name": "Ukraine",
+          "source_country": "Ukraine",
+          "event_country": "Kanada",
+          "event_country_code": "CA",
+          "mentioned_countries": [
+            "Kanada"
+          ],
+          "continent": "Amerika",
+          "category": "Pertahanan dan Keamanan",
+          "published_at": "2026-11-04T22:31:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z",
+          "article_url": "https://www.5.ua/polityka/zelenskyi-poiasnyv-iak-rezultaty-vyboriv-u-ssha-mozhut-vplynuty-na-pidtrymku-ukrainy-385822.html",
+          "summary": "Зеленський пояснив , як результати виборів у США можуть вплинути на підтримку України",
+          "cluster_id": "cluster-7d-006",
+          "geo_confidence": 88,
+          "provider": "GDELT"
+        },
+        {
+          "id": "art-7d-006-1",
+          "title": "US and Canadian maritime patrol aircraft conduct coordinated surveillance over Northwest Passage routes",
+          "source_name": "CBC News",
+          "source_country": "CA",
+          "event_country": "Kanada",
+          "event_country_code": "CA",
+          "mentioned_countries": [
+            "Kanada",
+            "Amerika Serikat"
+          ],
+          "continent": "Amerika",
+          "category": "Pertahanan dan Keamanan",
+          "offset_days": 5.9,
+          "article_url": "https://www.cbc.ca/news/politics/arctic-joint-patrol-norad-maritime-surveillance-2026",
+          "summary": "Canadian Armed Forces and US Northern Command conducted joint sensor sweeps across Lancaster Sound to track commercial and state vessel compliance.",
+          "cluster_id": "cluster-7d-006",
+          "geo_confidence": 96,
+          "provider": "GDELT",
+          "published_at": "2026-10-31T05:43:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        },
+        {
+          "id": "art-7d-006-2",
+          "title": "Pentagon Arctic Strategy review emphasizes heavy polar icebreaker procurement with Canadian yards",
+          "source_name": "USNI News",
+          "source_country": "US",
+          "event_country": "Kanada",
+          "event_country_code": "CA",
+          "mentioned_countries": [
+            "Kanada",
+            "Amerika Serikat"
+          ],
+          "continent": "Amerika",
+          "category": "Pertahanan dan Keamanan",
+          "offset_days": 3.5,
+          "article_url": "https://news.usni.org/2026/polar-security-cutter-bilateral-arctic-interoperability/",
+          "summary": "Joint shipbuilding agreements aim to field interoperable polar security cutters equipped for Arctic sovereignty enforcement.",
+          "cluster_id": "cluster-7d-006",
+          "geo_confidence": 94,
+          "provider": "GoogleNewsRSS",
+          "published_at": "2026-11-02T15:19:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        }
+      ],
+      "first_published_at": "2026-10-30T22:31:43.712Z",
+      "last_updated_at": "2026-11-05T21:19:43.712Z"
+    },
+    {
+      "id": "cluster-7d-007",
+      "target_periods": [
+        "7d"
+      ],
+      "rank": 7,
+      "title": "Regulasi Pengetatan Ekspor Material Litium dan Logam Paduan Titanium Pertahanan oleh Komisi Uni Eropa",
+      "summary": "Komisi Eropa mengeluarkan pedoman kepatuhan rantai pasok ketat bagi komoditas mineral kritis dan paduan titanium khusus industri dirgantara. Kebijakan ini dimaksudkan untuk memitigasi kebocoran material berteknologi ganda ke sektor manufaktur persenjataan asing.",
+      "event_country": "Belgia",
+      "event_country_code": "BE",
+      "continent": "Eropa",
+      "category": "Ekonomi",
+      "volume_growth": 18.2,
+      "confidence": 91,
+      "age_days": 6.5,
+      "articles": [
+        {
+          "id": "gdelt-1793927153735-14",
+          "title": "Media : Ukrainan hallintoon kytkeytyvä rikollisjärjestö aikoi tappaa toimittajan",
+          "source_name": "Finland",
+          "source_country": "Finland",
+          "event_country": "Belgia",
+          "event_country_code": "BE",
+          "mentioned_countries": [
+            "Belgia"
+          ],
+          "continent": "Eropa",
+          "category": "Ekonomi",
+          "published_at": "2026-11-04T22:31:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z",
+          "article_url": "https://www.iltalehti.fi/ulkomaat/a/13d33255-369b-40a1-95b5-23079e9ad283",
+          "summary": "Media : Ukrainan hallintoon kytkeytyvä rikollisjärjestö aikoi tappaa toimittajan",
+          "cluster_id": "cluster-7d-007",
+          "geo_confidence": 88,
+          "provider": "GDELT"
+        },
+        {
+          "id": "art-7d-007-1",
+          "title": "European Commission tightens export control mechanisms on critical aerospace alloys and lithium",
+          "source_name": "Euronews",
+          "source_country": "FR",
+          "event_country": "Belgia",
+          "event_country_code": "BE",
+          "mentioned_countries": [
+            "Belgia",
+            "Jerman",
+            "Prancis"
+          ],
+          "continent": "Eropa",
+          "category": "Ekonomi",
+          "offset_days": 6.1,
+          "article_url": "https://www.euronews.com/business/2026/eu-critical-raw-materials-export-tightening",
+          "summary": "The new directive requires end-user certification on titanium sponge and specialty metals essential for fifth-generation fighter airframes.",
+          "cluster_id": "cluster-7d-007",
+          "geo_confidence": 95,
+          "provider": "GDELT",
+          "published_at": "2026-10-31T00:55:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        },
+        {
+          "id": "art-7d-007-2",
+          "title": "Defense industry trade groups adapt to stringent dual-use material tracking rules in Brussels",
+          "source_name": "Financial Times",
+          "source_country": "GB",
+          "event_country": "Belgia",
+          "event_country_code": "BE",
+          "mentioned_countries": [
+            "Belgia",
+            "Inggris"
+          ],
+          "continent": "Eropa",
+          "category": "Ekonomi",
+          "offset_days": 3.8,
+          "article_url": "https://www.ft.com/content/brussels-defense-supply-chain-mineral-regulations-2026",
+          "summary": "Supply chain audits reveal increased diversification away from high-risk external single-source suppliers.",
+          "cluster_id": "cluster-7d-007",
+          "geo_confidence": 92,
+          "provider": "GoogleNewsRSS",
+          "published_at": "2026-11-02T08:07:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        }
+      ],
+      "first_published_at": "2026-10-30T15:19:43.712Z",
+      "last_updated_at": "2026-11-05T19:19:43.712Z"
+    },
+    {
+      "id": "cluster-7d-008",
+      "target_periods": [
+        "7d"
+      ],
+      "rank": 8,
+      "title": "Pembongkaran Sel Spionase Industri Dirgantara Militer di Kawasan Teknologi Pertahanan Linköping",
+      "summary": "Dinas Keamanan Swedia (SÄPO) berhasil membongkar jaringan spionase industri yang berupaya mengakses data rahasia avionik tempur generasi mendatang di fasilitas teknologi Linköping. Dua konsultan teknologi ditahan dalam operasi terkoordinasi.",
+      "event_country": "Swedia",
+      "event_country_code": "SE",
+      "continent": "Eropa",
+      "category": "Pertahanan dan Keamanan",
+      "volume_growth": 41.6,
+      "confidence": 95,
+      "age_days": 6.8,
+      "articles": [
+        {
+          "id": "gdelt-1793927153735-15",
+          "title": "Кушнер назвал цель США на переговорах по Украине",
+          "source_name": "Russia",
+          "source_country": "Russia",
+          "event_country": "Swedia",
+          "event_country_code": "SE",
+          "mentioned_countries": [
+            "Swedia"
+          ],
+          "continent": "Eropa",
+          "category": "Pertahanan dan Keamanan",
+          "published_at": "2026-11-04T22:31:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z",
+          "article_url": "https://ria.ru/20261106/ssha-2129564563.html",
+          "summary": "Кушнер назвал цель США на переговорах по Украине",
+          "cluster_id": "cluster-7d-008",
+          "geo_confidence": 88,
+          "provider": "GDELT"
+        },
+        {
+          "id": "art-7d-008-1",
+          "title": "Swedish Security Service detains suspects over aerospace defense industrial espionage operation",
+          "source_name": "Dagens Nyheter",
+          "source_country": "SE",
+          "event_country": "Swedia",
+          "event_country_code": "SE",
+          "mentioned_countries": [
+            "Swedia"
+          ],
+          "continent": "Eropa",
+          "category": "Pertahanan dan Keamanan",
+          "offset_days": 6.4,
+          "article_url": "https://www.dn.se/nyheter/sverige/sapo-griper-personer-misstankta-for-industrispionage-2026/",
+          "summary": "SÄPO confirmed the investigation targeted illegal collection of technical schematics concerning sensor fusion and radar warning receivers.",
+          "cluster_id": "cluster-7d-008",
+          "geo_confidence": 96,
+          "provider": "GDELT",
+          "published_at": "2026-10-30T17:43:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        },
+        {
+          "id": "art-7d-008-2",
+          "title": "Saab enhances internal cybersecurity and contractor screening following Linköping arrests",
+          "source_name": "Reuters",
+          "source_country": "GB",
+          "event_country": "Swedia",
+          "event_country_code": "SE",
+          "mentioned_countries": [
+            "Swedia"
+          ],
+          "continent": "Eropa",
+          "category": "Pertahanan dan Keamanan",
+          "offset_days": 4,
+          "article_url": "https://www.reuters.com/business/aerospace-defense/sweden-saab-cyber-security-upgrade-espionage-2026",
+          "summary": "Defense contractors across Scandinavia implemented immediate access freezes on encrypted blueprints to audit possible exfiltration trails.",
+          "cluster_id": "cluster-7d-008",
+          "geo_confidence": 93,
+          "provider": "GoogleNewsRSS",
+          "published_at": "2026-11-02T03:19:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        }
+      ],
+      "first_published_at": "2026-10-30T08:07:43.712Z",
+      "last_updated_at": "2026-11-06T01:19:43.712Z"
+    },
+    {
+      "id": "cluster-30d-001",
+      "target_periods": [
+        "30d"
+      ],
+      "rank": 1,
+      "title": "Restrukturisasi Doktrin Pertahanan Terpadu Aliansi Atlantik Utara Menghadapi Peperangan Multi-Domain",
+      "summary": "Komando Transformasi Sekutu NATO merampungkan kerangka doktrin pertahanan terpadu baru yang mengintegrasikan domain siber, luar angkasa, operasi kognitif, dan pertempuran konvensional. Doktrin ini mereorientasi penggelaran pasukan permanen di sepanjang perbatasan timur benua Eropa.",
+      "event_country": "Amerika Serikat",
+      "event_country_code": "US",
+      "continent": "Amerika",
+      "category": "Angkatan Bersenjata",
+      "volume_growth": 16.7,
+      "confidence": 98,
+      "age_days": 20,
+      "articles": [
+        {
+          "id": "gdelt-1793927153735-16",
+          "title": "كوشنر : مباحثات مثمرة في بروكسل بشأن أمن أوكرانيا وأوروبا",
+          "source_name": "rtarabic.com",
+          "source_country": "US",
+          "event_country": "Amerika Serikat",
+          "event_country_code": "US",
+          "mentioned_countries": [
+            "Amerika Serikat"
+          ],
+          "continent": "Amerika",
+          "category": "Angkatan Bersenjata",
+          "published_at": "2026-10-31T03:19:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z",
+          "article_url": "https://rtarabic.com/world/1850853-/",
+          "summary": "كوشنر : مباحثات مثمرة في بروكسل بشأن أمن أوكرانيا وأوروبا",
+          "cluster_id": "cluster-30d-001",
+          "geo_confidence": 88,
+          "provider": "GDELT"
+        },
+        {
+          "id": "art-30d-001-1",
+          "title": "NATO approves multi-domain warfare doctrine overhaul to counter evolving hybrid warfare threats",
+          "source_name": "Foreign Affairs",
+          "source_country": "US",
+          "event_country": "Amerika Serikat",
+          "event_country_code": "US",
+          "mentioned_countries": [
+            "Amerika Serikat",
+            "Jerman",
+            "Inggris"
+          ],
+          "continent": "Amerika",
+          "category": "Angkatan Bersenjata",
+          "offset_days": 18.5,
+          "article_url": "https://www.foreignaffairs.com/articles/united-states/2026/nato-multi-domain-defense-transformation",
+          "summary": "The strategic concept prioritizes decentralized sensor-to-shooter webs and autonomous unmanned swarms integrated into command echelons.",
+          "cluster_id": "cluster-30d-001",
+          "geo_confidence": 98,
+          "provider": "GDELT",
+          "published_at": "2026-10-18T15:19:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        },
+        {
+          "id": "art-30d-001-2",
+          "title": "Pentagon defense review emphasizes joint European forward positioning and strategic stockpiling",
+          "source_name": "Defense One",
+          "source_country": "US",
+          "event_country": "Amerika Serikat",
+          "event_country_code": "US",
+          "mentioned_countries": [
+            "Amerika Serikat",
+            "Polandia",
+            "Rumania"
+          ],
+          "continent": "Amerika",
+          "category": "Angkatan Bersenjata",
+          "offset_days": 10.2,
+          "article_url": "https://www.defenseone.com/policy/2026/pentagon-strategic-stockpiling-european-theater/",
+          "summary": "Army prepositioned stocks (APS) across Europe received significant upgrades in guided munitions inventories and combat vehicle repair parts.",
+          "cluster_id": "cluster-30d-001",
+          "geo_confidence": 96,
+          "provider": "GoogleNewsRSS",
+          "published_at": "2026-10-26T22:31:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        }
+      ],
+      "first_published_at": "2026-10-17T03:19:43.712Z",
+      "last_updated_at": "2026-11-05T11:19:43.712Z"
+    },
+    {
+      "id": "cluster-30d-002",
+      "target_periods": [
+        "30d"
+      ],
+      "rank": 2,
+      "title": "Evaluasi Efektivitas Paket Rezim Sanksi Komprehensif Putaran Ke-16 terhadap Jaringan Finansial dan Rantai Pasok Dual-Use",
+      "summary": "Dewan Uni Eropa bersama Departemen Keuangan AS merilis laporan evaluasi triwulanan terkait efektivitas sanksi finansial sekunder dan pencegahan penghindaran ekspor microchip militer melalui negara ketiga di Asia Tengah dan Kaukasus.",
+      "event_country": "Belgia",
+      "event_country_code": "BE",
+      "continent": "Eropa",
+      "category": "Hubungan Luar Negeri",
+      "volume_growth": 11.3,
+      "confidence": 96,
+      "age_days": 22,
+      "articles": [
+        {
+          "id": "gdelt-1793927153735-17",
+          "title": "Німецьку армію очолить генерал , який у Міноборони відповідав за допомогу Україні",
+          "source_name": "Ukraine",
+          "source_country": "Ukraine",
+          "event_country": "Belgia",
+          "event_country_code": "BE",
+          "mentioned_countries": [
+            "Belgia"
+          ],
+          "continent": "Eropa",
+          "category": "Hubungan Luar Negeri",
+          "published_at": "2026-10-31T03:19:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z",
+          "article_url": "https://www.eurointegration.com.ua/news/2026/11/5/7249360/",
+          "summary": "Німецьку армію очолить генерал , який у Міноборони відповідав за допомогу Україні",
+          "cluster_id": "cluster-30d-002",
+          "geo_confidence": 88,
+          "provider": "GDELT"
+        },
+        {
+          "id": "art-30d-002-1",
+          "title": "EU and US Treasury publish joint assessment on 16th sanctions enforcement and dual-use supply interdictions",
+          "source_name": "Financial Times",
+          "source_country": "GB",
+          "event_country": "Belgia",
+          "event_country_code": "BE",
+          "mentioned_countries": [
+            "Belgia",
+            "Amerika Serikat"
+          ],
+          "continent": "Eropa",
+          "category": "Hubungan Luar Negeri",
+          "offset_days": 20.4,
+          "article_url": "https://www.ft.com/content/eu-us-sanctions-enforcement-assessment-chips-2026",
+          "summary": "The assessment highlights the blacklisting of 64 shell trading entities operating in secondary jurisdictions used for illicit electronics procurement.",
+          "cluster_id": "cluster-30d-002",
+          "geo_confidence": 97,
+          "provider": "GDELT",
+          "published_at": "2026-10-16T17:43:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        },
+        {
+          "id": "art-30d-002-2",
+          "title": "European sanctions coordinator warns of aggressive transshipment tactics targeting maritime registries",
+          "source_name": "Bloomberg",
+          "source_country": "US",
+          "event_country": "Belgia",
+          "event_country_code": "BE",
+          "mentioned_countries": [
+            "Belgia",
+            "Yunani",
+            "Siprus"
+          ],
+          "continent": "Eropa",
+          "category": "Hubungan Luar Negeri",
+          "offset_days": 11.8,
+          "article_url": "https://www.bloomberg.com/news/articles/2026-eu-sanctions-maritime-dark-fleet-crackdown",
+          "summary": "Enhanced satellite radar tracking and transponder verification protocols were deployed to intercept illicit ship-to-ship transfers in the Mediterranean.",
+          "cluster_id": "cluster-30d-002",
+          "geo_confidence": 94,
+          "provider": "GoogleNewsRSS",
+          "published_at": "2026-10-25T08:07:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        }
+      ],
+      "first_published_at": "2026-10-15T03:19:43.712Z",
+      "last_updated_at": "2026-11-05T07:19:43.712Z"
+    },
+    {
+      "id": "cluster-30d-003",
+      "target_periods": [
+        "30d"
+      ],
+      "rank": 3,
+      "title": "Peningkatan Kapasitas Produksi Pabrik Mesiu dan Amunisi Artileri Berat Standar NATO 155mm di Eropa Barat",
+      "summary": "Konsorsium industri pertahanan terkemuka Eropa (Rheinmetall, KNDS, dan BAE Systems) mengumumkan pencapaian target produksi tahunan 1,8 juta butir amunisi artileri 155mm. Fasilitas pabrik baru di Jerman dan Prancis mulai beroperasi penuh guna memenuhi kebutuhan cadangan strategis aliansi.",
+      "event_country": "Jerman",
+      "event_country_code": "DE",
+      "continent": "Eropa",
+      "category": "Ekonomi",
+      "volume_growth": 12.5,
+      "confidence": 96,
+      "age_days": 24,
+      "articles": [
+        {
+          "id": "gdelt-1793927153735-18",
+          "title": "Trump teases  big , beautiful  Russia - Ukraine deal",
+          "source_name": "Germany",
+          "source_country": "Germany",
+          "event_country": "Jerman",
+          "event_country_code": "DE",
+          "mentioned_countries": [
+            "Jerman"
+          ],
+          "continent": "Eropa",
+          "category": "Ekonomi",
+          "published_at": "2026-10-31T03:19:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z",
+          "article_url": "https://www.dw.com/en/trump-raises-prospect-of-big-beautiful-russia-ukraine-deal/a-79871394",
+          "summary": "Trump teases  big , beautiful  Russia - Ukraine deal",
+          "cluster_id": "cluster-30d-003",
+          "geo_confidence": 88,
+          "provider": "GDELT"
+        },
+        {
+          "id": "art-30d-003-1",
+          "title": "European defense industrial base reaches milestone 155mm artillery shell annual output goal",
+          "source_name": "Handelsblatt",
+          "source_country": "DE",
+          "event_country": "Jerman",
+          "event_country_code": "DE",
+          "mentioned_countries": [
+            "Jerman",
+            "Prancis",
+            "Inggris"
+          ],
+          "continent": "Eropa",
+          "category": "Ekonomi",
+          "offset_days": 22.8,
+          "article_url": "https://www.handelsblatt.com/unternehmen/industrie/munition-155mm-rheinmetall-kapazitaet/2026.html",
+          "summary": "Newly inaugurated automated chemical propellants and projectile forging plants in Unterlüss achieved commercial ramp-up ahead of initial projections.",
+          "cluster_id": "cluster-30d-003",
+          "geo_confidence": 97,
+          "provider": "GDELT",
+          "published_at": "2026-10-14T08:07:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        },
+        {
+          "id": "art-30d-003-2",
+          "title": "EU Defense Industry Strategy review confirms long-term multi-year ammunition procurement framework",
+          "source_name": "Defense News",
+          "source_country": "US",
+          "event_country": "Jerman",
+          "event_country_code": "DE",
+          "mentioned_countries": [
+            "Jerman",
+            "Belgia"
+          ],
+          "continent": "Eropa",
+          "category": "Ekonomi",
+          "offset_days": 12.5,
+          "article_url": "https://www.defensenews.com/industry/2026/european-defense-agency-ammunition-contracts/",
+          "summary": "Multi-year framework purchase orders provide stable capital visibility enabling raw material suppliers to expand nitrocellulose capacity.",
+          "cluster_id": "cluster-30d-003",
+          "geo_confidence": 95,
+          "provider": "GoogleNewsRSS",
+          "published_at": "2026-10-24T15:19:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        }
+      ],
+      "first_published_at": "2026-10-13T03:19:43.712Z",
+      "last_updated_at": "2026-11-05T03:19:43.712Z"
+    },
+    {
+      "id": "cluster-30d-004",
+      "target_periods": [
+        "30d"
+      ],
+      "rank": 4,
+      "title": "Pembentukan Komando Pertahanan Gabungan Kutub Utara (Joint Arctic Command) untuk Kedaulatan Wilayah Utara",
+      "summary": "Pemerintah Kanada dan Amerika Serikat meresmikan restrukturisasi komando terpadu kawasan kutub utara guna menjamin ketahanan jalur logistik, perlindungan stasiun radar peringatan dini, dan pencegahan klaim maritim sepihak di dasar laut Arktik.",
+      "event_country": "Kanada",
+      "event_country_code": "CA",
+      "continent": "Amerika",
+      "category": "Pertahanan dan Keamanan",
+      "volume_growth": 11.5,
+      "confidence": 94,
+      "age_days": 25.5,
+      "articles": [
+        {
+          "id": "gdelt-1793927153735-19",
+          "title": "Rusia y Ucrania cruzan bombardeos previo a inicio de conversaciones sobre reconstrucción en Brusela",
+          "source_name": "Argentina",
+          "source_country": "Argentina",
+          "event_country": "Kanada",
+          "event_country_code": "CA",
+          "mentioned_countries": [
+            "Kanada"
+          ],
+          "continent": "Amerika",
+          "category": "Pertahanan dan Keamanan",
+          "published_at": "2026-10-31T03:19:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z",
+          "article_url": "https://www.infobae.com/america/2026/11/05/rusia-y-ucrania-cruzan-bombardeos-previo-a-inicio-de-conversaciones-sobre-reconstruccion-en-brusela/",
+          "summary": "Rusia y Ucrania cruzan bombardeos previo a inicio de conversaciones sobre reconstrucción en Brusela",
+          "cluster_id": "cluster-30d-004",
+          "geo_confidence": 88,
+          "provider": "GDELT"
+        },
+        {
+          "id": "art-30d-004-1",
+          "title": "Canada and US establish integrated Joint Arctic Defense Command to monitor polar routes",
+          "source_name": "The Globe and Mail",
+          "source_country": "CA",
+          "event_country": "Kanada",
+          "event_country_code": "CA",
+          "mentioned_countries": [
+            "Kanada",
+            "Amerika Serikat"
+          ],
+          "continent": "Amerika",
+          "category": "Pertahanan dan Keamanan",
+          "offset_days": 24.1,
+          "article_url": "https://www.theglobeandmail.com/politics/article-joint-arctic-defense-command-inauguration-2026/",
+          "summary": "The headquarters based in Yellowknife will oversee over-the-horizon radar installations and coordinated naval Arctic patrol detachments.",
+          "cluster_id": "cluster-30d-004",
+          "geo_confidence": 96,
+          "provider": "GDELT",
+          "published_at": "2026-10-13T00:55:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        },
+        {
+          "id": "art-30d-004-2",
+          "title": "Arctic security summit in Ottawa outlines 10-year infrastructure funding for northern airstrips",
+          "source_name": "CBC News",
+          "source_country": "CA",
+          "event_country": "Kanada",
+          "event_country_code": "CA",
+          "mentioned_countries": [
+            "Kanada",
+            "Denmark",
+            "Norwegia"
+          ],
+          "continent": "Amerika",
+          "category": "Pertahanan dan Keamanan",
+          "offset_days": 14.2,
+          "article_url": "https://www.cbc.ca/news/politics/ottawa-arctic-security-infrastructure-runways-2026",
+          "summary": "Investments focus on cold-weather runway hardening and satellite communication downlink repeaters across Resolute Bay and Inuvik.",
+          "cluster_id": "cluster-30d-004",
+          "geo_confidence": 93,
+          "provider": "GoogleNewsRSS",
+          "published_at": "2026-10-22T22:31:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        }
+      ],
+      "first_published_at": "2026-10-11T15:19:43.712Z",
+      "last_updated_at": "2026-11-04T23:19:43.712Z"
+    },
+    {
+      "id": "cluster-30d-005",
+      "target_periods": [
+        "30d"
+      ],
+      "rank": 5,
+      "title": "Modernisasi Pangkalan Armada Taranto dan Penataan Ulang Strategi Proyeksi Kekuatan Maritim Mediterania",
+      "summary": "Angkatan Laut Italia (Marina Militare) menyelesaikan modernisasi tahap pertama pangkalan armada utama di Taranto, menempatkan kapal induk Trieste dan kapal selam serang U212NFS. Fasilitas ini menjadi pusat komando maritim NATO untuk kawasan Mediterania tengah dan timur.",
+      "event_country": "Italia",
+      "event_country_code": "IT",
+      "continent": "Eropa",
+      "category": "Angkatan Bersenjata",
+      "volume_growth": 5.9,
+      "confidence": 93,
+      "age_days": 26.5,
+      "articles": [
+        {
+          "id": "gdelt-1793927153735-20",
+          "title": "Τραμπ μετά τη συνάντηση με τον απεσταλμένο του Πούτιν : Κοντά στο τέλος ο πόλεμος στην Ουκρανία , έρχεται συμφωνία που μπορεί να αφορά όλη την Ευρώπη",
+          "source_name": "Greece",
+          "source_country": "Greece",
+          "event_country": "Italia",
+          "event_country_code": "IT",
+          "mentioned_countries": [
+            "Italia"
+          ],
+          "continent": "Eropa",
+          "category": "Angkatan Bersenjata",
+          "published_at": "2026-10-31T03:19:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z",
+          "article_url": "https://sofokleous10.gr/2026/11/06/%CF%84%CF%81%CE%B1%CE%BC%CF%80-%CE%BC%CE%B5%CF%84%CE%AC-%CF%84%CE%B7-%CF%83%CF%85%CE%BD%CE%AC%CE%BD%CF%84%CE%B7%CF%83%CE%B7-%CE%BC%CE%B5-%CF%84%CE%BF%CE%BD-%CE%B1%CF%80%CE%B5%CF%83%CF%84%CE%B1%CE%BB/",
+          "summary": "Τραμπ μετά τη συνάντηση με τον απεσταλμένο του Πούτιν : Κοντά στο τέλος ο πόλεμος στην Ουκρανία , έρχεται συμφωνία που μπορεί να αφορά όλη την Ευρώπη",
+          "cluster_id": "cluster-30d-005",
+          "geo_confidence": 88,
+          "provider": "GDELT"
+        },
+        {
+          "id": "art-30d-005-1",
+          "title": "Italian Navy inaugurates expanded deep-water piers and command center at Taranto naval base",
+          "source_name": "Naval News",
+          "source_country": "FR",
+          "event_country": "Italia",
+          "event_country_code": "IT",
+          "mentioned_countries": [
+            "Italia",
+            "Yunani",
+            "Prancis"
+          ],
+          "continent": "Eropa",
+          "category": "Angkatan Bersenjata",
+          "offset_days": 25,
+          "article_url": "https://www.navalnews.com/naval-news/2026/italian-navy-taranto-base-modernization-complete/",
+          "summary": "The upgraded base features advanced electromagnetic catapult maintenance workshops and subterranean hardened munitions bunkers.",
+          "cluster_id": "cluster-30d-005",
+          "geo_confidence": 96,
+          "provider": "GDELT",
+          "published_at": "2026-10-12T03:19:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        },
+        {
+          "id": "art-30d-005-2",
+          "title": "Rome reaffirms Mediterranean deterrence strategy with permanent Carrier Strike Group deployment",
+          "source_name": "Reuters",
+          "source_country": "GB",
+          "event_country": "Italia",
+          "event_country_code": "IT",
+          "mentioned_countries": [
+            "Italia"
+          ],
+          "continent": "Eropa",
+          "category": "Angkatan Bersenjata",
+          "offset_days": 15.6,
+          "article_url": "https://www.reuters.com/world/europe/italy-navy-mediterranean-carrier-strike-group-2026",
+          "summary": "Italian defense leadership outlined doctrine emphasizing anti-access/area-denial (A2/AD) capabilities across the Strait of Sicily.",
+          "cluster_id": "cluster-30d-005",
+          "geo_confidence": 93,
+          "provider": "GoogleNewsRSS",
+          "published_at": "2026-10-21T12:55:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        }
+      ],
+      "first_published_at": "2026-10-10T15:19:43.712Z",
+      "last_updated_at": "2026-11-04T19:19:43.712Z"
+    },
+    {
+      "id": "cluster-30d-006",
+      "target_periods": [
+        "30d"
+      ],
+      "rank": 6,
+      "title": "Kerjasama Trilateral Pertahanan Perbatasan AS-Meksiko Menghadapi Ancaman Kartel Bersenjata Berteknologi Drone",
+      "summary": "Kementerian Pertahanan Meksiko (SEDENA) dan Departemen Pertahanan AS menyepakati rencana operasi bersama untuk mencegat penggunaan drone nirawak taktis bersenjata dan sistem terowongan perbatasan berteknologi tinggi oleh kelompok kejahatan transnasional terorganisir.",
+      "event_country": "Meksiko",
+      "event_country_code": "MX",
+      "continent": "Amerika",
+      "category": "Hukum & Peradilan",
+      "volume_growth": 14.8,
+      "confidence": 92,
+      "age_days": 27.5,
+      "articles": [
+        {
+          "id": "gdelt-1793927153735-21",
+          "title": "a defense strategy that would allow forces to attack ... ",
+          "source_name": "Australia",
+          "source_country": "Australia",
+          "event_country": "Meksiko",
+          "event_country_code": "MX",
+          "mentioned_countries": [
+            "Meksiko"
+          ],
+          "continent": "Amerika",
+          "category": "Hukum & Peradilan",
+          "published_at": "2026-10-31T03:19:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z",
+          "article_url": "https://www.yourdemocracy.net.au/drupal/node/61729",
+          "summary": "a defense strategy that would allow forces to attack ... ",
+          "cluster_id": "cluster-30d-006",
+          "geo_confidence": 88,
+          "provider": "GDELT"
+        },
+        {
+          "id": "art-30d-006-1",
+          "title": "US and Mexico launch bilateral defense initiative targeting weaponized commercial drones along border",
+          "source_name": "The Washington Post",
+          "source_country": "US",
+          "event_country": "Meksiko",
+          "event_country_code": "MX",
+          "mentioned_countries": [
+            "Meksiko",
+            "Amerika Serikat"
+          ],
+          "continent": "Amerika",
+          "category": "Hukum & Peradilan",
+          "offset_days": 26.2,
+          "article_url": "https://www.washingtonpost.com/world/2026/us-mexico-border-counter-uas-initiative/",
+          "summary": "The security protocol includes radar tethering and directed-energy counter-unmanned aerial systems (C-UAS) deployed at high-risk corridor segments.",
+          "cluster_id": "cluster-30d-006",
+          "geo_confidence": 95,
+          "provider": "GDELT",
+          "published_at": "2026-10-10T22:31:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        },
+        {
+          "id": "art-30d-006-2",
+          "title": "Mexican armed forces intercept illicit advanced sensor shipments in joint customs operation",
+          "source_name": "El Universal",
+          "source_country": "MX",
+          "event_country": "Meksiko",
+          "event_country_code": "MX",
+          "mentioned_countries": [
+            "Meksiko",
+            "Amerika Serikat"
+          ],
+          "continent": "Amerika",
+          "category": "Hukum & Peradilan",
+          "offset_days": 16,
+          "article_url": "https://www.eluniversal.com.mx/nacion/sedena-decomisa-drones-militares-frontera-norte-2026/",
+          "summary": "Customs inspections uncovered imported radio-frequency jamming modules concealed within automotive freight shipments.",
+          "cluster_id": "cluster-30d-006",
+          "geo_confidence": 92,
+          "provider": "GoogleNewsRSS",
+          "published_at": "2026-10-21T03:19:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        }
+      ],
+      "first_published_at": "2026-10-09T15:19:43.712Z",
+      "last_updated_at": "2026-11-05T15:19:43.712Z"
+    },
+    {
+      "id": "cluster-30d-007",
+      "target_periods": [
+        "30d"
+      ],
+      "rank": 7,
+      "title": "Integrasi Kerangka Pertahanan Siber Finansial Mercosur untuk Perlindungan Cadangan Moneter Regional",
+      "summary": "Pertemuan Menteri Keuangan dan Pertahanan Mercosur di Buenos Aires menetapkan protokol pertahanan siber terpadu guna membentengi jaringan perbankan sentral dan kliring valuta asing Amerika Selatan dari serangan siber bermotif sabotase geopolitik.",
+      "event_country": "Argentina",
+      "event_country_code": "AR",
+      "continent": "Amerika",
+      "category": "Ilmu Pengetahuan dan Teknologi",
+      "volume_growth": 8.8,
+      "confidence": 91,
+      "age_days": 28.5,
+      "articles": [
+        {
+          "id": "gdelt-1793927153735-22",
+          "title": "Переговоры по Украине : Кушнер сообщил о продуктивной встрече в Брюсселе",
+          "source_name": "Russia",
+          "source_country": "Russia",
+          "event_country": "Argentina",
+          "event_country_code": "AR",
+          "mentioned_countries": [
+            "Argentina"
+          ],
+          "continent": "Amerika",
+          "category": "Ilmu Pengetahuan dan Teknologi",
+          "published_at": "2026-10-31T03:19:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z",
+          "article_url": "https://iz.ru/2197020/2026-11-06/kushner-soobshchil-o-produktivnykh-peregovorakh-ssha-s-ukrainoi-nato-i-evropeitcami",
+          "summary": "Переговоры по Украине : Кушнер сообщил о продуктивной встрече в Брюсселе",
+          "cluster_id": "cluster-30d-007",
+          "geo_confidence": 88,
+          "provider": "GDELT"
+        },
+        {
+          "id": "art-30d-007-1",
+          "title": "Mercosur finance ministers sign landmark cyber defense framework protecting central bank reserve clearing",
+          "source_name": "Reuters",
+          "source_country": "GB",
+          "event_country": "Argentina",
+          "event_country_code": "AR",
+          "mentioned_countries": [
+            "Argentina",
+            "Brasil",
+            "Uruguay"
+          ],
+          "continent": "Amerika",
+          "category": "Ilmu Pengetahuan dan Teknologi",
+          "offset_days": 27.4,
+          "article_url": "https://www.reuters.com/technology/cybersecurity/mercosur-central-bank-cyber-defense-accord-2026",
+          "summary": "The agreement establishes an automated real-time threat intelligence hub linking monetary authorities across Argentina, Brazil, and Uruguay.",
+          "cluster_id": "cluster-30d-007",
+          "geo_confidence": 95,
+          "provider": "GDELT",
+          "published_at": "2026-10-09T17:43:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        },
+        {
+          "id": "art-30d-007-2",
+          "title": "South American sovereign debt markets stabilize as unified financial resilience mechanisms take effect",
+          "source_name": "Clarín",
+          "source_country": "AR",
+          "event_country": "Argentina",
+          "event_country_code": "AR",
+          "mentioned_countries": [
+            "Argentina",
+            "Brasil"
+          ],
+          "continent": "Amerika",
+          "category": "Ilmu Pengetahuan dan Teknologi",
+          "offset_days": 17.1,
+          "article_url": "https://www.clarin.com/economia/mercosur-ciberdefensa-reservas-monetarias-banco-central-2026.html",
+          "summary": "Foreign exchange trading desks welcomed the deployment of isolated air-gapped backup ledgers protecting sovereign debt settlement.",
+          "cluster_id": "cluster-30d-007",
+          "geo_confidence": 92,
+          "provider": "GoogleNewsRSS",
+          "published_at": "2026-10-20T00:55:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        }
+      ],
+      "first_published_at": "2026-10-08T15:19:43.712Z",
+      "last_updated_at": "2026-11-05T11:19:43.712Z"
+    },
+    {
+      "id": "cluster-30d-008",
+      "target_periods": [
+        "30d"
+      ],
+      "rank": 8,
+      "title": "Modernisasi Radar Peringatan Dini Rudal Balistik Lintas Cakrawala di Pangkalan Pasifik dan Atlantik",
+      "summary": "Angkatan Luar Angkasa AS (US Space Force) menyelesaikan integrasi radar sensor bertahap (Upgraded Early Warning Radar / UEWR) di pangkalan Clear SFS Alaska dan Thule di Greenland. Peningkatan ini memperluas radius deteksi dan resolusi pelacakan wahana luncur hipersonik berkecepatan Mach 15+.",
+      "event_country": "Amerika Serikat",
+      "event_country_code": "US",
+      "continent": "Amerika",
+      "category": "Pertahanan dan Keamanan",
+      "volume_growth": 6.7,
+      "confidence": 97,
+      "age_days": 29.5,
+      "articles": [
+        {
+          "id": "gdelt-1793927153735-23",
+          "title": "Zelensky për TSN : Ukraina duhet të përshtatet me realitetet e reja politike në SHBA , shtja Patriot është prioriteti numër nj",
+          "source_name": "Albania",
+          "source_country": "Albania",
+          "event_country": "Amerika Serikat",
+          "event_country_code": "US",
+          "mentioned_countries": [
+            "Amerika Serikat"
+          ],
+          "continent": "Amerika",
+          "category": "Pertahanan dan Keamanan",
+          "published_at": "2026-10-31T03:19:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z",
+          "article_url": "https://24-ore.com/zelensky-per-tsn-ukraina-duhet-te-pershtatet-me-realitetet-e-reja-politike-ne-shba-ceshtja-patriot-eshte-prioriteti-numer-nje/",
+          "summary": "Zelensky për TSN : Ukraina duhet të përshtatet me realitetet e reja politike në SHBA , shtja Patriot është prioriteti numër nj",
+          "cluster_id": "cluster-30d-008",
+          "geo_confidence": 88,
+          "provider": "GDELT"
+        },
+        {
+          "id": "art-30d-008-1",
+          "title": "US Space Force commissions upgraded early-warning missile tracking radar suite in Alaska and Greenland",
+          "source_name": "Air & Space Forces Magazine",
+          "source_country": "US",
+          "event_country": "Amerika Serikat",
+          "event_country_code": "US",
+          "mentioned_countries": [
+            "Amerika Serikat",
+            "Denmark",
+            "Kanada"
+          ],
+          "continent": "Amerika",
+          "category": "Pertahanan dan Keamanan",
+          "offset_days": 28.6,
+          "article_url": "https://www.airandspaceforces.com/space-force-uewr-radar-upgrade-alaska-greenland-2026/",
+          "summary": "Solid-state active electronically scanned array (AESA) modules replaced legacy vacuum transmitters, providing enhanced multi-target discrimination.",
+          "cluster_id": "cluster-30d-008",
+          "geo_confidence": 98,
+          "provider": "GDELT",
+          "published_at": "2026-10-08T12:55:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        },
+        {
+          "id": "art-30d-008-2",
+          "title": "Strategic Command validates ballistic missile defense interoperability in high-latitude radar test",
+          "source_name": "Defense News",
+          "source_country": "US",
+          "event_country": "Amerika Serikat",
+          "event_country_code": "US",
+          "mentioned_countries": [
+            "Amerika Serikat"
+          ],
+          "continent": "Amerika",
+          "category": "Pertahanan dan Keamanan",
+          "offset_days": 18,
+          "article_url": "https://www.defensenews.com/space/2026/stratcom-validates-polar-early-warning-radar-coverage/",
+          "summary": "Simulated multi-axis missile salvos were tracked and handed off seamlessly to Ground-Based Midcourse Defense interceptor batteries.",
+          "cluster_id": "cluster-30d-008",
+          "geo_confidence": 95,
+          "provider": "GoogleNewsRSS",
+          "published_at": "2026-10-19T03:19:43.712Z",
+          "fetched_at": "2026-11-06T03:09:43.712Z"
+        }
+      ],
+      "first_published_at": "2026-10-07T15:19:43.712Z",
+      "last_updated_at": "2026-11-05T07:19:43.712Z"
+    }
+  ]
+}

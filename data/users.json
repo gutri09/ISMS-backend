@@ -1,0 +1,35 @@
+[
+  {
+    "id": "usr-admin-01",
+    "username": "admin",
+    "name": "Superadmin Pengendali Sistem",
+    "email": "admin@kemhan.mil.id",
+    "password": "admin123",
+    "role": "admin",
+    "isActive": true,
+    "createdAt": "2026-11-01T08:00:00.000Z",
+    "updatedAt": "2026-11-01T08:00:00.000Z"
+  },
+  {
+    "id": "usr-analis-01",
+    "username": "analis",
+    "name": "Letda Lek Gutri Rahmad Zuwa",
+    "email": "gutri.analis@kemhan.mil.id",
+    "password": "analis123",
+    "role": "analis",
+    "isActive": true,
+    "createdAt": "2026-11-01T08:00:00.000Z",
+    "updatedAt": "2026-11-01T08:00:00.000Z"
+  },
+  {
+    "id": "usr-pimpinan-01",
+    "username": "pimpinan",
+    "name": "Direktur Pemantauan Strategis",
+    "email": "pimpinan@kemhan.mil.id",
+    "password": "pimpinan123",
+    "role": "pimpinan",
+    "isActive": true,
+    "createdAt": "2026-11-01T08:00:00.000Z",
+    "updatedAt": "2026-11-01T08:00:00.000Z"
+  }
+]

@@ -1,0 +1,236 @@
+{
+  "continents": [
+    "Amerika",
+    "Eropa",
+    "Asia",
+    "Afrika",
+    "Australia & Pasifik",
+    "Timur Tengah",
+    "Global / Multilateral"
+  ],
+  "components": [
+    "Ekonomi",
+    "Angkatan Bersenjata",
+    "Ilmu Pengetahuan dan Teknologi",
+    "Sosial",
+    "Politik",
+    "Geografi",
+    "Demografi",
+    "Transportasi dan Telekomunikasi",
+    "Pertahanan & Keamanan",
+    "Hukum & HAM"
+  ],
+  "countries": [
+    {
+      "code": "US",
+      "name": "Amerika Serikat",
+      "continent": "Amerika",
+      "subRegion": "Amerika Utara"
+    },
+    {
+      "code": "CA",
+      "name": "Kanada",
+      "continent": "Amerika",
+      "subRegion": "Amerika Utara"
+    },
+    {
+      "code": "MX",
+      "name": "Meksiko",
+      "continent": "Amerika",
+      "subRegion": "Amerika Utara"
+    },
+    {
+      "code": "BR",
+      "name": "Brasil",
+      "continent": "Amerika",
+      "subRegion": "Amerika Selatan"
+    },
+    {
+      "code": "AR",
+      "name": "Argentina",
+      "continent": "Amerika",
+      "subRegion": "Amerika Selatan"
+    },
+    {
+      "code": "CL",
+      "name": "Chili",
+      "continent": "Amerika",
+      "subRegion": "Amerika Selatan"
+    },
+    {
+      "code": "CO",
+      "name": "Kolombia",
+      "continent": "Amerika",
+      "subRegion": "Amerika Selatan"
+    },
+    {
+      "code": "PE",
+      "name": "Peru",
+      "continent": "Amerika",
+      "subRegion": "Amerika Selatan"
+    },
+    {
+      "code": "VE",
+      "name": "Venezuela",
+      "continent": "Amerika",
+      "subRegion": "Amerika Selatan"
+    },
+    {
+      "code": "CU",
+      "name": "Kuba",
+      "continent": "Amerika",
+      "subRegion": "Karibia"
+    },
+    {
+      "code": "PA",
+      "name": "Panama",
+      "continent": "Amerika",
+      "subRegion": "Amerika Tengah"
+    },
+    {
+      "code": "GB",
+      "name": "Inggris",
+      "continent": "Eropa",
+      "subRegion": "Eropa Barat"
+    },
+    {
+      "code": "FR",
+      "name": "Prancis",
+      "continent": "Eropa",
+      "subRegion": "Eropa Barat"
+    },
+    {
+      "code": "DE",
+      "name": "Jerman",
+      "continent": "Eropa",
+      "subRegion": "Eropa Barat"
+    },
+    {
+      "code": "RU",
+      "name": "Rusia",
+      "continent": "Eropa",
+      "subRegion": "Eropa Timur"
+    },
+    {
+      "code": "UA",
+      "name": "Ukraina",
+      "continent": "Eropa",
+      "subRegion": "Eropa Timur"
+    },
+    {
+      "code": "IT",
+      "name": "Italia",
+      "continent": "Eropa",
+      "subRegion": "Eropa Selatan"
+    },
+    {
+      "code": "ES",
+      "name": "Spanyol",
+      "continent": "Eropa",
+      "subRegion": "Eropa Selatan"
+    },
+    {
+      "code": "NL",
+      "name": "Belanda",
+      "continent": "Eropa",
+      "subRegion": "Eropa Barat"
+    },
+    {
+      "code": "PL",
+      "name": "Polandia",
+      "continent": "Eropa",
+      "subRegion": "Eropa Timur"
+    },
+    {
+      "code": "TR",
+      "name": "Turki",
+      "continent": "Eropa",
+      "subRegion": "Eropa Selatan"
+    },
+    {
+      "code": "CH",
+      "name": "Swiss",
+      "continent": "Eropa",
+      "subRegion": "Eropa Barat"
+    },
+    {
+      "code": "SE",
+      "name": "Swedia",
+      "continent": "Eropa",
+      "subRegion": "Eropa Utara"
+    },
+    {
+      "code": "NO",
+      "name": "Norwegia",
+      "continent": "Eropa",
+      "subRegion": "Eropa Utara"
+    },
+    {
+      "code": "FI",
+      "name": "Finlandia",
+      "continent": "Eropa",
+      "subRegion": "Eropa Utara"
+    },
+    {
+      "code": "DK",
+      "name": "Denmark",
+      "continent": "Eropa",
+      "subRegion": "Eropa Utara"
+    },
+    {
+      "code": "BE",
+      "name": "Belgia",
+      "continent": "Eropa",
+      "subRegion": "Eropa Barat"
+    },
+    {
+      "code": "AT",
+      "name": "Austria",
+      "continent": "Eropa",
+      "subRegion": "Eropa Barat"
+    },
+    {
+      "code": "GR",
+      "name": "Yunani",
+      "continent": "Eropa",
+      "subRegion": "Eropa Selatan"
+    },
+    {
+      "code": "PT",
+      "name": "Portugal",
+      "continent": "Eropa",
+      "subRegion": "Eropa Selatan"
+    },
+    {
+      "code": "BG",
+      "name": "Bulgaria",
+      "continent": "Eropa",
+      "subRegion": "Eropa Tenggara"
+    }
+  ],
+  "kegiatanTemplates": [
+    "Kunjungan Kenegaraan",
+    "Pertemuan Bilateral",
+    "Latihan Militer Bersama",
+    "Perjanjian Pertahanan & Keamanan",
+    "Krisis Diplomatik & Pengusiran Staf",
+    "Penjatuhan Sanksi Ekonomi & Dagang",
+    "Konflik Bersenjata & Manuver Pasukan",
+    "Uji Coba Senjata Strategis & Rudal",
+    "KTT Internasional & Pakta Multilateral",
+    "Kerja Sama Riset Teknologi & Kedirgantaraan",
+    "Spionase & Operasi Siber Antarnegara"
+  ],
+  "bentukKegiatanTemplates": [
+    "Pertemuan Bilateral",
+    "Penandatanganan MoU / Traktat",
+    "KTT / Konferensi Tingkat Tinggi",
+    "Latihan Manuver Gabungan",
+    "Deklarasi Pernyataan Resmi Bersama",
+    "Pemberian Paket Bantuan Militer",
+    "Operasi Khusus / Intelijen",
+    "Uji Coba Rudal Balistik Antarbenua",
+    "Sidang Dewan Keamanan PBB",
+    "Pembekuan Aset & Embargo Perdagangan"
+  ]
+}
